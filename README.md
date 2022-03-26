@@ -10,7 +10,7 @@ If they get a girl, they will have another child. If they get their first boy, t
 What is the proportion of boys to girls in the country?
 ```
 
-I mean let's not even talk about the proportion. Are there more girls or boys? Just one boy will stop them from having another kid, so it's easy to conclude that there will be more girls than boys in this country obviously. 
+I mean let's not even talk about the proportion. Are there more girls or boys? Just one boy will stop them from having another kid, so it's easy to conclude that there will be more girls than boys in this country.
 
 But is your intuition right, though? Let's simulate this using Python.
 
